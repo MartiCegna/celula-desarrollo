@@ -1,9 +1,9 @@
-Análisis de Ventas de una Pequeña Empresa
-Integrante
+# Análisis de Ventas de una Pequeña Empresa
+## Integrante
 
 Martina Cegna
 
-Materia
+## Materia
 
 Organización Empresarial
 
@@ -11,7 +11,7 @@ Trabajo Práctico
 
 Gestión Colaborativa, Control de Versiones y Organización Empresarial (Git, GitHub y Jira)
 
-Escenario Elegido
+## Escenario Elegido
 
 Escenario B – Análisis de Ventas de una Pequeña Empresa
 
